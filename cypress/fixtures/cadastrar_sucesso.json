@@ -1,0 +1,10 @@
+{
+  "name": "Meu Celular",
+  "data": {
+    "year": 2023,
+    "price": 999,
+    "CPU model": "Intel",
+    "Hard disk size": "1 TB",
+    "owner": "I ltda"
+  }
+}
