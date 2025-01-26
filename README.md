@@ -1,6 +1,6 @@
 # testeApiCy
 
-"Projeto teste de Api com Cypress, get, post, delete, update."
+"Projeto teste de Api com Cypress, realizando get, post, delete, update."
 
 ## Tecnologias Usadas
 
